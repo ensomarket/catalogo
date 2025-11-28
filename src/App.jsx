@@ -24,7 +24,7 @@ const BUSINESS_CONFIG = {
   logoText: "🛒",
   
   // 5. Color de la App (Si quieres otro color, cámbialo a 'bg-red-600', 'bg-blue-600', etc.)
-  primaryColor: "bg-olive-600 hover:bg-grey-700", 
+  primaryColor: "bg-olive-600 hover:bg-stone-700", 
 };
 
 
