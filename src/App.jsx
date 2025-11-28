@@ -21,10 +21,10 @@ const BUSINESS_CONFIG = {
   currency: "$",
   
   // 4. Un emoji para el logo (Ej: "☕", "🍕")
-  logoText: "🍓🫐",
+  logoText: "🛒",
   
   // 5. Color de la App (Si quieres otro color, cámbialo a 'bg-red-600', 'bg-blue-600', etc.)
-  primaryColor: "bg-emerald-600 hover:bg-emerald-700", 
+  primaryColor: "bg-indigo-600 hover:bg-indigo-700", 
 };
 
 
